@@ -10,8 +10,8 @@ Plateforme de petites annonces inspirée de **Le Bon Coin**, développée avec l
 - 📝 Création, modification et suppression d'annonces
 - 👤 Association automatique de l’annonce à l’auteur connecté
 - 🧱 Vérification d’accès via un **middleware JWT**
-- 📂 Filtrage par catégorie (bonus)
-- 🔎 Détail d’une annonce (bonus)
+- 📂 Filtrage par catégorie 
+- 🔎 Détail d’une annonce 
 - 💾 Stockage local du token JWT
 - ⚛️ Frontend React sans Redux (state local uniquement)
 
