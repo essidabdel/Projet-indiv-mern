@@ -50,7 +50,7 @@ Plateforme de petites annonces inspirée de **Le Bon Coin**, développée avec l
 ---
 
 ## ⚙️ Installation & Lancement
-
+git clone https://github.com/essidabdel/Projet-indiv-mern.git
 ### 🔙 Backend (API Node/Express)
 
 1. Ouvre un terminal :
